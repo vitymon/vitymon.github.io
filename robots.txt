@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow:
+Sitemap: https://vitymon.github.io/sitemap.txt
