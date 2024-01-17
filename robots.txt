@@ -1,3 +1,2 @@
 User-Agent: *
 Disallow:
-Sitemap: https://tere.psabl.net/sitemap.txt
