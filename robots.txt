@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow:
+Sitemap: https://psabl.net/sitemap.txt
